@@ -14,7 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Site Settings
+# Site Setting
 locale                   : "en-US"
 title                    : "My Den"
 title_separator          : "-"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Joon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "**amazing**"
+  location         : "US"
   email            :
   links:
     - label: "Email"
