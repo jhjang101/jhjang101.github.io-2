@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Joon Hee Jang"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Slowly but surely    Day by day"
+  bio              : "Slowly but surely  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Day by day"
   location         : "US"
   email            : "jhjang101@gmail.com"
   links:
