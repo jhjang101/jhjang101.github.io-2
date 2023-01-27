@@ -1,3 +1,8 @@
+---
+layout: archive
+title: About Me
+---
+
 # About Me
 
 Hello, my name is Joon Hee Jang. I grew up in South Korea and moved to the US for graduate studies in chemistry. I am currently living in Texas and working as a product development engineer at a biotech company.
