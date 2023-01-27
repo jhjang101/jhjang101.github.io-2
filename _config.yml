@@ -112,8 +112,8 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jhjang101@gmail.com"
-    - label: "Website"
+      #url: "mailto:jhjang101@gmail.com"
+    - label: "Home"
       icon: "fas fa-fw fa-link"
       url: "https://jhjang101.github.io/"
     - label: "Twitter"
