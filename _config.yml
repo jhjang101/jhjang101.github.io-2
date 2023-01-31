@@ -108,6 +108,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |
     Slowly but surely
+    
     Day by day
   location         : "US"
   email            : "jhjang101@gmail.com"
