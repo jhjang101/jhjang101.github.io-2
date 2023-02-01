@@ -1,6 +1,6 @@
 ---
-layout: post 
-title: "Welcome to Jekyll!" 
+layout: single 
+title: "Access DOCX file with BeautifulSou" 
 ---
 
 # Access DOCX file with BeautifulSoup
