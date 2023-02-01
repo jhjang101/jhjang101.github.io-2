@@ -3,8 +3,6 @@ layout: single
 title: "Access DOCX file with BeautifulSoup" 
 ---
 
-# Access DOCX file with BeautifulSoup
-
 Beautiful Soup is a Python library that allows for easy parsing and navigation of HTML and XML documents. It is often used for web scraping and data extraction, as well as for modifying and creating HTML and XML files. In this post, we will explore how to use Beautiful Soup to read and write Microsoft Word documents.
 
 ### DOCX format
