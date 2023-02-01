@@ -11,7 +11,7 @@ Beautiful Soup is a Python library that allows for easy parsing and navigation o
 
 Microsoft Word documents are stored in a proprietary format called .docx. However, the .docx format is actually just a collection of compressed XML files. 
 
-![Wordzip.png](C:\Users\Joonhee\Dropbox\Blog\assets\Wordzip.png)
+![Wordzip.png](/assets/images/Word.png)
 
 ### zipfile library
 
