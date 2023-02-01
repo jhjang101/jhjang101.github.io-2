@@ -1,6 +1,6 @@
 ---
 layout: single 
-title: "Access DOCX file with BeautifulSou" 
+title: "Access DOCX file with BeautifulSoup" 
 ---
 
 # Access DOCX file with BeautifulSoup
